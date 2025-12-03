@@ -1,0 +1,8 @@
+[
+  {
+    "name": "pht/example/example-github-module",
+    "version": "1.0.0",
+    "git": "https://github.com/Domaman202/Project-Sprout-Example-Module-Github.git",
+    "release": "https://github.com/Domaman202/Project-Sprout-Example-Module-Github/releases/tag/1.0.0"
+  }
+]
