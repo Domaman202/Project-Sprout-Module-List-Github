@@ -12,5 +12,12 @@
     "git": "https://github.com/Domaman202/Project-Sprout-Example-Module-Github.git",
     "hash": "70df1c09a489ef0c8e3f9a5457fe64a9dc7606691b0d70e042576f5869bae1788a5ed13f638afae1511b0dafe792d79ab8a8f733754ffa69cbcdc6f90ee9b8da",
     "file": "https://github.com/Domaman202/Project-Sprout-Example-Module-Github/releases/download/1.0.1-crack/module.zip"
+  },
+  {
+    "name": "pht/sprout/base",
+    "version": "1.0.0",
+    "git": "https://github.com/Domaman202/Project-Sprout-Base-Module.git",
+    "hash": "6dc71d63f42bbdd2632568a83f4963276cc9d42e70afd96f8c66a06b76b85ae61dbfc12b18aa58c3ff4e367edc4e44dc060982ddb73ec8e2e620eabbe25dacd8",
+    "file": "https://github.com/Domaman202/Project-Sprout-Base-Module/releases/download/1.0.0/module.zip"
   }
 ]
