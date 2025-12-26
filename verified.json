@@ -19,5 +19,12 @@
     "git": "https://github.com/Domaman202/Project-Sprout-Base-Module.git",
     "hash": "6dc71d63f42bbdd2632568a83f4963276cc9d42e70afd96f8c66a06b76b85ae61dbfc12b18aa58c3ff4e367edc4e44dc060982ddb73ec8e2e620eabbe25dacd8",
     "file": "https://github.com/Domaman202/Project-Sprout-Base-Module/releases/download/1.0.0/module.zip"
+  },
+  {
+    "name": "pht/base",
+    "version": "1.0.0",
+    "git": "https://github.com/Domaman202/Project-Pihta-Base-Module.git",
+    "hash": "fff1c1ee9b3038c23d13063f068cfc136eb91d85674510bd3c60868bde826ccfd04ec9480debcd9e0ff82a3234cae26b603c70b8278bed22636c0b6f5fb89d1d",
+    "file": "https://github.com/Domaman202/Project-Pihta-Base-Module/releases/download/1.0.0/module.zip"
   }
 ]
